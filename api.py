@@ -1,7 +1,7 @@
 import requests
 
 # Replace these with your API keys
-google_api_key = 'AIzaSyCsaCJDIYvuDWqXXj0n2i2BqUb71HoAPr4'
+google_api_key = 'put your api here'
 
 def get_hotels(city):
     base_url = 'https://maps.googleapis.com/maps/api/place/textsearch/json'
